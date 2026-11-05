@@ -1,0 +1,2 @@
+Run this in cmd: python -m streamlit run app_rag.py
+If that complains about missing modules, run: python -m pip install google-genai pypdf in the same Python.
